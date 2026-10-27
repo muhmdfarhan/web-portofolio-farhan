@@ -4,6 +4,7 @@
 <head>
     {{-- META TAGS UTAMA --}}
     <meta charset="UTF-8">
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="@yield('meta_description', 'Portofolio Profesional Muhamad Farhan — Fullstack Developer | Web Developer (Laravel, PHP, MySQL)')">
     <meta name="author" content="Muhamad Farhan">

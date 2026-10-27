@@ -33,6 +33,8 @@
   "env": {
     "APP_NAME": "Portofolio Muhamad Farhan",
     "APP_KEY": "base64:76iGnlS5hIcAUbQDcnaIVpn5G+irE9xnHiVhBbrHE+Y=",
+    "APP_URL": "https://web-portofolio-farhan.vercel.app",
+    "ASSET_URL": "https://web-portofolio-farhan.vercel.app",
     "APP_ENV": "production",
     "APP_DEBUG": "false",
     "APP_CONFIG_CACHE": "/tmp/config.php",
