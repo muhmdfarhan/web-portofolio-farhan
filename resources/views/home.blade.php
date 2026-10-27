@@ -94,7 +94,7 @@
                 <div class="float-badge float-badge--top">
                     <span class="float-badge-icon">💻</span>
                     <div>
-                        <span class="float-badge-title">Full-Stack</span>
+                        <span class="float-badge-title">FullStack</span>
                         <span class="float-badge-sub">Developer</span>
                     </div>
                 </div>
@@ -375,7 +375,7 @@
                     <img src="{{ asset('images/project-1.jpg') }}" alt="Sistem Hosting"
                           onerror="this.parentElement.innerHTML='<div class=\'fp-placeholder\'><i class=\'fas fa-server\'></i></div>'">
                     <div class="fp-overlay">
-                        <a href="https://github.com/muhmdfarhan/hosting-management" target="_blank" rel="noopener"
+                        <a href="https://github.com/muhmdfarhan/hostbill" target="_blank" rel="noopener"
                            class="fp-overlay-btn"><i class="fab fa-github"></i> Repository</a>
                     </div>
                 </div>
@@ -397,7 +397,7 @@
                     <img src="{{ asset('images/project-4.jpg') }}" alt="Kasir POS"
                           onerror="this.parentElement.innerHTML='<div class=\'fp-placeholder\'><i class=\'fas fa-cash-register\'></i></div>'">
                     <div class="fp-overlay">
-                        <a href="https://github.com/muhmdfarhan/kasir-pos" target="_blank" rel="noopener"
+                        <a href="https://github.com/muhmdfarhan/web-ipos5" target="_blank" rel="noopener"
                            class="fp-overlay-btn"><i class="fab fa-github"></i> Repository</a>
                     </div>
                 </div>
