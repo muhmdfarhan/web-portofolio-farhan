@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
-@section('title', 'Skills — Muhammad Farhan')
-@section('meta_description', 'Kemampuan teknis Muhammad Farhan dalam PHP, Laravel, MySQL, HTML, CSS, JavaScript, dan lainnya.')
+@section('title', 'Skills — Muhamad Farhan')
+@section('meta_description', 'Kemampuan teknis Muhamad Farhan dalam PHP, Laravel, MySQL, HTML, CSS, JavaScript, dan sistem informasi.')
 
 @section('content')
 

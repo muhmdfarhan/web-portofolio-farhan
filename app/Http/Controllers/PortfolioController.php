@@ -25,7 +25,7 @@ class PortfolioController extends Controller
             'nama'         => 'Muhamad Farhan',
             'nama_lengkap' => 'Muhamad Farhan',
             'profesi'      => 'Fullstack Developer | Web Developer',
-            'deskripsi'    => 'Mahasiswa Sistem Informasi yang antusias di bidang pengembangan web. Saya bersemangat membangun aplikasi web modern, rapi, dan solutif menggunakan Laravel, PHP, dan MySQL.',
+            'deskripsi'    => 'Fresh Graduate Sistem Informasi yang antusias di bidang pengembangan web. Saya bersemangat membangun aplikasi web modern, rapi, dan solutif menggunakan Laravel, PHP, dan MySQL.',
             'email'        => 'mhdfarhan760@gmail.com',
             'whatsapp'     => '6281363459461',
             'github'       => 'https://github.com/muhmdfarhan',
@@ -53,7 +53,7 @@ class PortfolioController extends Controller
             'instagram'    => 'https://www.instagram.com/muhamadfarhann__/',
             'kota'         => 'Padang, Indonesia',
             'cv_url'       => asset('files/CV-Muhamad-Farhan.pdf'),
-            'deskripsi'    => 'Saya adalah mahasiswa Sistem Informasi yang berfokus pada web development. Memiliki minat mendalam pada ekosistem Laravel, perancangan database MySQL, analisis sistem informasi, dan antarmuka pengguna (UI/UX) yang intuitif.',
+            'deskripsi'    => 'Saya adalah Fresh Graduate Sistem Informasi yang berfokus pada web development. Memiliki minat mendalam pada ekosistem Laravel, perancangan database MySQL, analisis sistem informasi, dan antarmuka pengguna (UI/UX) yang intuitif.',
             'minat'        => [
                 'Web Development',
                 'UI/UX Design',
@@ -246,7 +246,7 @@ class PortfolioController extends Controller
                 'jenjang'     => 'S1 (Sarjana)',
                 'tahun_masuk' => '2022',
                 'tahun_lulus' => '2026',
-                'deskripsi'   => 'Fokus pada arsitektur sistem informasi, perancangan basis data relasional, pemrograman web tingkat lanjut, rekayasa perangkat lunak, dan manajemen proyek IT.',
+                'deskripsi'   => 'Lulusan Sarjana (S1) Sistem Informasi dengan fokus pada arsitektur sistem informasi, perancangan basis data relasional, pemrograman web tingkat lanjut (Laravel), rekayasa perangkat lunak, dan manajemen proyek IT.',
                 'icon'        => '🎓',
             ],
             [
@@ -592,9 +592,9 @@ class PortfolioController extends Controller
             'email'     => 'mhdfarhan760@gmail.com',
             'whatsapp'  => '6281363459461',
             'github'    => 'https://github.com/muhmdfarhan',
-            'linkedin'  => 'https://linkedin.com/in/farhan',
-            'instagram' => 'https://instagram.com/farhan',
-            'kota'      => 'Indonesia',
+            'linkedin'  => 'https://www.linkedin.com/in/mhmdfarhann/',
+            'instagram' => 'https://www.instagram.com/muhamadfarhann__/',
+            'kota'      => 'Padang, Indonesia',
         ];
 
         return view('contact', compact('kontak'));

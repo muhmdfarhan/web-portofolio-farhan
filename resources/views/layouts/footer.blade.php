@@ -37,10 +37,10 @@
                     <a href="https://github.com/muhmdfarhan" target="_blank" rel="noopener" aria-label="GitHub">
                         <i class="fab fa-github"></i>
                     </a>
-                    <a href="https://linkedin.com/in/farhan" target="_blank" rel="noopener" aria-label="LinkedIn">
+                    <a href="https://www.linkedin.com/in/mhmdfarhann/" target="_blank" rel="noopener" aria-label="LinkedIn">
                         <i class="fab fa-linkedin-in"></i>
                     </a>
-                    <a href="https://instagram.com/farhan" target="_blank" rel="noopener" aria-label="Instagram">
+                    <a href="https://www.instagram.com/muhamadfarhann__/" target="_blank" rel="noopener" aria-label="Instagram">
                         <i class="fab fa-instagram"></i>
                     </a>
                     <a href="https://wa.me/6281363459461" target="_blank" rel="noopener" aria-label="WhatsApp">

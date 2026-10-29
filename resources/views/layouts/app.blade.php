@@ -6,21 +6,21 @@
     <meta charset="UTF-8">
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="@yield('meta_description', 'Portofolio Profesional Muhamad Farhan — Fullstack Developer | Web Developer (Laravel, PHP, MySQL)')">
+    <meta name="description" content="@yield('meta_description', 'Portofolio Profesional Muhamad Farhan — Fresh Graduate Sistem Informasi & Fullstack Web Developer (Laravel, PHP, MySQL)')">
     <meta name="author" content="Muhamad Farhan">
-    <meta name="keywords" content="Muhamad Farhan, Farhan Web Developer, Fullstack Developer, Laravel Developer, Portofolio Sistem Informasi, PHP Developer Indonesia">
+    <meta name="keywords" content="Muhamad Farhan, Farhan Web Developer, Fullstack Developer, Laravel Developer, Fresh Graduate Sistem Informasi, PHP Developer Indonesia, Web Developer Padang">
 
     {{-- OPEN GRAPH META TAGS (Preview Berbagi Link di WhatsApp / LinkedIn / Twitter) --}}
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ url()->current() }}">
     <meta property="og:title" content="@yield('title', 'Muhamad Farhan — Fullstack Developer | Web Developer')">
-    <meta property="og:description" content="@yield('meta_description', 'Portofolio Muhamad Farhan - Fullstack Developer | Web Developer')">
+    <meta property="og:description" content="@yield('meta_description', 'Portofolio Muhamad Farhan - Fresh Graduate Sistem Informasi & Fullstack Web Developer')">
     <meta property="og:image" content="{{ asset('images/profile.jpg') }}">
 
     {{-- TWITTER CARD --}}
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="@yield('title', 'Muhamad Farhan — Fullstack Developer | Web Developer')">
-    <meta name="twitter:description" content="@yield('meta_description', 'Portofolio Muhamad Farhan')">
+    <meta name="twitter:description" content="@yield('meta_description', 'Portofolio Muhamad Farhan - Fresh Graduate Sistem Informasi')">
     <meta name="twitter:image" content="{{ asset('images/profile.jpg') }}">
 
     {{-- TITLE --}}

@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title', 'Muhamad Farhan — Fullstack Developer | Web Developer')
-@section('meta_description', 'Portofolio Muhamad Farhan, Information Systems Student dan FullStact Developer.')
+@section('meta_description', 'Portofolio Muhamad Farhan, Fresh Graduate Sistem Informasi & Fullstack Web Developer.')
 
 @section('content')
 
@@ -102,8 +102,8 @@
                 <div class="float-badge float-badge--bottom">
                     <span class="float-badge-icon">🎓</span>
                     <div>
-                        <span class="float-badge-title" data-i18n="hero.float_title">Sistem</span>
-                        <span class="float-badge-sub" data-i18n="hero.float_sub">Informasi</span>
+                        <span class="float-badge-title" data-i18n="hero.float_title">Fresh Graduate</span>
+                        <span class="float-badge-sub" data-i18n="hero.float_sub">Sistem Informasi</span>
                     </div>
                 </div>
             </div>
@@ -206,7 +206,7 @@
                     </div>
                     <div>
                         <h4 data-i18n="about.card1_t">Pendidikan</h4>
-                        <p data-i18n="about.card1_s">S1 Sistem Informasi</p>
+                        <p data-i18n="about.card1_s">Fresh Graduate S1 SI</p>
                     </div>
                 </div>
                 <div class="mini-card">
@@ -489,10 +489,10 @@
             </div>
             <div class="journey-item">
                 <div class="journey-dot">🎓</div>
-                <div class="journey-year">2022</div>
+                <div class="journey-year">2022–2026</div>
                 <div class="journey-card">
-                    <h4 data-i18n="journey.j2_title">Masuk Kuliah</h4>
-                    <p data-i18n="journey.j2_desc">Memulai S1 Sistem Informasi, belajar Laravel &amp; web development secara serius.</p>
+                    <h4 data-i18n="journey.j2_title">Kuliah S1</h4>
+                    <p data-i18n="journey.j2_desc">Menempuh S1 Sistem Informasi, mendalami Laravel &amp; web development secara terstruktur.</p>
                 </div>
             </div>
             <div class="journey-item">
@@ -507,8 +507,8 @@
                 <div class="journey-dot">🚀</div>
                 <div class="journey-year">Now</div>
                 <div class="journey-card journey-card--active">
-                    <h4 data-i18n="journey.j4_title">Terus Berkembang</h4>
-                    <p data-i18n="journey.j4_desc">Aktif belajar, membangun proyek, dan siap berkolaborasi!</p>
+                    <h4 data-i18n="journey.j4_title">Fresh Graduate</h4>
+                    <p data-i18n="journey.j4_desc">Lulusan baru Sistem Informasi yang siap berkontribusi penuh di industri profesional!</p>
                 </div>
             </div>
         </div>

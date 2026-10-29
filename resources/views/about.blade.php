@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title', 'About — Muhamad Farhan')
-@section('meta_description', 'Tentang Muhamad Farhan, mahasiswa Sistem Informasi yang aktif belajar web development.')
+@section('meta_description', 'Tentang Muhamad Farhan, Fresh Graduate Sistem Informasi yang fokus pada web development dan Laravel.')
 
 @section('content')
 
@@ -15,7 +15,7 @@
         <div class="page-hero-v2__content">
             <span class="section-tag">Tentang Saya</span>
             <h1 class="page-hero-v2__title">Kenalan dengan <span class="text-accent">Muhamad Farhan</span></h1>
-            <p class="page-hero-v2__sub">Mahasiswa Sistem Informasi yang passionate di bidang Web Development &amp; Laravel.</p>
+            <p class="page-hero-v2__sub">Fresh Graduate Sistem Informasi yang passionate di bidang Web Development &amp; Laravel.</p>
         </div>
     </div>
 </section>
@@ -123,7 +123,7 @@
                 </p>
                 <p class="about-desc">
                     Di luar coding, saya juga tertarik pada UI/UX design, sistem basis data, serta manajemen proyek teknologi informasi.
-                    Saya terbuka untuk diskusi, kolaborasi, maupun kesempatan magang dan kerja sama proyek.
+                    Saya terbuka untuk diskusi, kolaborasi, maupun kesempatan kerja (full-time / contract / remote) dan kerja sama proyek.
                 </p>
 
                 {{-- Stats Row --}}

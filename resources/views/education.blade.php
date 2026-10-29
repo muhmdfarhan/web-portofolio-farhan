@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
-@section('title', 'Education — Muhammad Farhan')
-@section('meta_description', 'Riwayat pendidikan Muhammad Farhan, mahasiswa Sistem Informasi.')
+@section('title', 'Education — Muhamad Farhan')
+@section('meta_description', 'Riwayat pendidikan Muhamad Farhan, Fresh Graduate S1 Sistem Informasi Universitas Metamedia.')
 
 @section('content')
 

@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
-@section('title', 'Experience — Muhammad Farhan')
-@section('meta_description', 'Pengalaman organisasi, magang, dan proyek Muhammad Farhan.')
+@section('title', 'Experience — Muhamad Farhan')
+@section('meta_description', 'Pengalaman organisasi, magang, dan profesional Muhamad Farhan, Fresh Graduate Sistem Informasi.')
 
 @section('content')
 

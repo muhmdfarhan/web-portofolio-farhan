@@ -27,16 +27,16 @@ const translations = {
         'nav.theme_btn': 'Ubah Mode',
 
         // Hero Section
-        'hero.available': 'Tersedia untuk Freelance & Kolaborasi Proyek',
+        'hero.available': 'Tersedia untuk Kerja & Kolaborasi Proyek',
         'hero.greeting': '👋 Halo, Saya',
         'hero.prefix': 'Seorang ',
-        'hero.desc': 'Mahasiswa Sistem Informasi yang antusias di bidang pengembangan web. Saya bersemangat membangun aplikasi web modern, rapi, dan solutif menggunakan Laravel, PHP, dan MySQL.',
+        'hero.desc': 'Fresh Graduate Sistem Informasi yang antusias di bidang pengembangan web. Saya bersemangat membangun aplikasi web modern, rapi, dan solutif menggunakan Laravel, PHP, dan MySQL.',
         'hero.stack': 'Teknologi Utama:',
         'hero.btn_projects': 'Lihat Proyek Saya',
         'hero.btn_cv': 'Unduh CV',
         'hero.social': 'Temukan saya di:',
-        'hero.float_title': 'Sistem',
-        'hero.float_sub': 'Informasi',
+        'hero.float_title': 'Fresh Graduate',
+        'hero.float_sub': 'Sistem Informasi',
 
         // Stats Section
         'stats.p1': 'Proyek Selesai',
@@ -49,7 +49,7 @@ const translations = {
         'about.heading': 'Kenapa memilih',
         'about.accent': 'saya?',
         'about.sub': 'Saya adalah developer yang tidak hanya menulis kode, tetapi membangun solusi.',
-        'about.p1': 'Saya adalah mahasiswa Sistem Informasi yang berfokus pada web development. Memiliki minat mendalam pada ekosistem Laravel, perancangan database MySQL, analisis sistem informasi, dan antarmuka pengguna (UI/UX) yang intuitif.',
+        'about.p1': 'Saya adalah Fresh Graduate Sistem Informasi yang berfokus pada web development. Memiliki minat mendalam pada ekosistem Laravel, perancangan database MySQL, analisis sistem informasi, dan antarmuka pengguna (UI/UX) yang intuitif.',
         'about.p2': 'Saya percaya bahwa kombinasi antara kemampuan teknis yang kuat dan pemahaman terhadap kebutuhan pengguna adalah kunci membuat produk digital yang baik.',
         'about.fact1': 'Kode bersih dan terstruktur',
         'about.fact2': 'Detail oriented & problem solver',
@@ -57,7 +57,7 @@ const translations = {
         'about.fact4': 'Berpengalaman dengan Laravel & MySQL',
         'about.btn': 'Selengkapnya Tentang Saya',
         'about.card1_t': 'Pendidikan',
-        'about.card1_s': 'S1 Sistem Informasi',
+        'about.card1_s': 'Fresh Graduate S1 SI',
         'about.card2_t': 'Lokasi',
         'about.card3_t': 'Pengalaman',
         'about.card3_s': 'Magang & Freelance',
@@ -103,12 +103,12 @@ const translations = {
         'journey.accent': 'berkembang',
         'journey.j1_title': 'SMA / SMK',
         'journey.j1_desc': 'Mulai mengenal dunia komputer dan pemrograman dasar.',
-        'journey.j2_title': 'Masuk Kuliah',
-        'journey.j2_desc': 'Memulai S1 Sistem Informasi, belajar Laravel & web development secara serius.',
+        'journey.j2_title': 'Kuliah S1',
+        'journey.j2_desc': 'Menempuh S1 Sistem Informasi, mendalami Laravel & web development secara terstruktur.',
         'journey.j3_title': 'Magang / PKL',
         'journey.j3_desc': 'Pengalaman nyata membangun sistem informasi di dunia kerja.',
-        'journey.j4_title': 'Terus Berkembang',
-        'journey.j4_desc': 'Aktif belajar, membangun proyek, dan siap berkolaborasi!',
+        'journey.j4_title': 'Fresh Graduate',
+        'journey.j4_desc': 'Lulusan baru Sistem Informasi yang siap berkontribusi penuh di industri profesional!',
 
         // CTA Section
         'cta.tag': '👋 Siap Berkolaborasi?',
@@ -141,16 +141,16 @@ const translations = {
         'nav.theme_btn': 'Switch Mode',
 
         // Hero Section
-        'hero.available': 'Available for Freelance & Project Collaboration',
+        'hero.available': 'Available for Full-time & Project Collaboration',
         'hero.greeting': '👋 Hi, I am',
         'hero.prefix': 'A ',
-        'hero.desc': 'An enthusiastic Information Systems student specialized in web development. Passionate about building modern, clean, and efficient web applications using Laravel, PHP, and MySQL.',
+        'hero.desc': 'An enthusiastic Information Systems Fresh Graduate specialized in web development. Passionate about building modern, clean, and efficient web applications using Laravel, PHP, and MySQL.',
         'hero.stack': 'Core Tech Stack:',
         'hero.btn_projects': 'Explore My Projects',
         'hero.btn_cv': 'Download CV',
         'hero.social': 'Connect with me:',
-        'hero.float_title': 'Information',
-        'hero.float_sub': 'Systems',
+        'hero.float_title': 'Fresh Graduate',
+        'hero.float_sub': 'Information Systems',
 
         // Stats Section
         'stats.p1': 'Projects Completed',
@@ -163,7 +163,7 @@ const translations = {
         'about.heading': 'Why choose',
         'about.accent': 'me?',
         'about.sub': 'I am a developer who does not just write code, but crafts real solutions.',
-        'about.p1': 'I am an Information Systems student focused on web development. Deep interest in the Laravel ecosystem, MySQL database design, information systems analysis, and intuitive UI/UX.',
+        'about.p1': 'I am an Information Systems Fresh Graduate focused on web development. Deep interest in the Laravel ecosystem, MySQL database design, information systems analysis, and intuitive UI/UX.',
         'about.p2': 'I believe that blending strong technical expertise with user-centric thinking is the key to building great digital products.',
         'about.fact1': 'Clean and well-structured code',
         'about.fact2': 'Detail-oriented & problem solver',
@@ -171,7 +171,7 @@ const translations = {
         'about.fact4': 'Experienced with Laravel & MySQL',
         'about.btn': 'More About Me',
         'about.card1_t': 'Education',
-        'about.card1_s': 'B.Sc. Information Systems',
+        'about.card1_s': 'Fresh Graduate B.Sc. IS',
         'about.card2_t': 'Location',
         'about.card3_t': 'Experience',
         'about.card3_s': 'Internship & Freelance',
@@ -217,12 +217,12 @@ const translations = {
         'journey.accent': 'grown',
         'journey.j1_title': 'High School',
         'journey.j1_desc': 'First introduced to computers and basic logic programming.',
-        'journey.j2_title': 'University Admittance',
-        'journey.j2_desc': 'Began Information Systems degree, deeply studying Laravel & web engineering.',
+        'journey.j2_title': 'University Degree',
+        'journey.j2_desc': 'Completed B.Sc. in Information Systems, deeply studying Laravel & software engineering.',
         'journey.j3_title': 'Web Developer Internship',
         'journey.j3_desc': 'Real-world experience building information systems for enterprises.',
-        'journey.j4_title': 'Continuous Growth',
-        'journey.j4_desc': 'Actively learning new tech, building projects, and ready for collaboration!',
+        'journey.j4_title': 'Fresh Graduate',
+        'journey.j4_desc': 'Information Systems fresh graduate eager to deliver value in professional roles!',
 
         // CTA Section
         'cta.tag': '👋 Ready to Collaborate?',
@@ -543,8 +543,8 @@ if (fadeEls.length > 0) {
 const typewriterEl = document.getElementById('typewriter');
 if (typewriterEl) {
     const wordsMap = {
-        id: ['Fullstack Developer', 'Web Developer', 'Laravel Specialist', 'System Analyst', 'Problem Solver'],
-        en: ['Fullstack Developer', 'Web Developer', 'Laravel Specialist', 'System Analyst', 'Problem Solver']
+        id: ['Fresh Graduate Sistem Informasi', 'Fullstack Developer', 'Web Developer', 'Laravel Specialist', 'System Analyst'],
+        en: ['Information Systems Graduate', 'Fullstack Developer', 'Web Developer', 'Laravel Specialist', 'System Analyst']
     };
     let wordIdx = 0, charIdx = 0, isDeleting = false;
 
